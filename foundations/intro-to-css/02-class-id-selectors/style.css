@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd {
+  background-color: hsl(340,80,72);
+  font-family: 'Verdana','DejaVu Sans', sans-serif;
+}
+#num-two {
+  color: hsl(240,75,50);
+  font-size: 36px;
+}
+#num-three {
+  font-size: 24px; 
+}
+#num-four {
+  background-color: HSL(130,70,50);
+  font-size: 24px;
+  font-weight: 700;
+}
